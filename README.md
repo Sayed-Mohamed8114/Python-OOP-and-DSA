@@ -1,0 +1,1 @@
+# I created this repo to put my codes and notes in it in py journey to master python 
